@@ -1,0 +1,11 @@
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\bin\Debug\MongoTest.exe.config
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\bin\Debug\MongoTest.exe
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\bin\Debug\MongoTest.pdb
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\bin\Debug\MongoDB.Bson.dll
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\bin\Debug\MongoDB.Driver.dll
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\bin\Debug\MongoDB.Bson.xml
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\bin\Debug\MongoDB.Driver.xml
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\obj\Debug\MongoTest.csprojResolveAssemblyReference.cache
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\obj\Debug\MongoTest.exe
+c:\users\vibeesh\documents\visual studio 2015\Projects\MongoTest\obj\Debug\MongoTest.pdb
